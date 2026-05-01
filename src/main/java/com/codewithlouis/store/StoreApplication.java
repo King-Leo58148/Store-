@@ -8,8 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StoreApplication {
 
 	public static void main(String[] args) {
-	ApplicationContext context= SpringApplication.run(StoreApplication.class, args);
-
+	SpringApplication.run(StoreApplication.class, args);
+	 Dev obj = new Dev();
+     obj.build();
 	}
 
 }
