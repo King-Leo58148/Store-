@@ -1,4 +1,4 @@
-package com.codewithlouis.store;
+package com.codewithlouis.store.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
